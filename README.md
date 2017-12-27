@@ -1,6 +1,6 @@
-Show a request header information
-GET /api/whoami
-Example output:
+##### Show a request header information
+##### GET /api/whoami
+##### Example output:
 ```
 {
     "ipaddress":"159.20.14.100",
